@@ -1,0 +1,6 @@
+{
+  "name": "cava3 - Audio Spectrum Visualizer",
+  "description": "Real-time Android audio spectrum visualizer (System Audio & Mic) with desktop cava3 color profile, log scale, and GitHub Actions build.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

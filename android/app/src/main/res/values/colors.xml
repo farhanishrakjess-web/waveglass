@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Desktop cava3 color profile -->
+    <color name="cava_background">#909090</color>
+    <color name="cava_controls_bar">#7E7E7E</color>
+    <color name="cava_status_bar">#7E7E7E</color>
+    <color name="cava_text">#1E1E1E</color>
+    <color name="cava_button_bg">#6E6E6E</color>
+    <color name="cava_button_text">#FFFFFF</color>
+    <color name="cava_reference_curve">#FFFFFF</color>
+    <color name="cava_spectrum_bass">#2962FF</color>
+    <color name="cava_spectrum_treble">#00E5FF</color>
+    <color name="cava_peak_ring">#111111</color>
+</resources>

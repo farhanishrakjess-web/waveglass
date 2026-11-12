@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cava3</string>
+    <string name="notification_channel_name">cava3 Audio Visualizer</string>
+    <string name="notification_title">cava3 is running</string>
+    <string name="notification_text">Capturing audio stream in real-time</string>
+    <string name="source_system">Source: System audio</string>
+    <string name="source_mic">Source: Microphone</string>
+    <string name="view_auto">View: Auto-rotate</string>
+    <string name="view_portrait">View: Portrait</string>
+    <string name="view_landscape">View: Landscape</string>
+    <string name="gain_format">Gain: %+d dB</string>
+</resources>

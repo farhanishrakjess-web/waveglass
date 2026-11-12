@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- cava3 spectrum waveform icon -->
+    <path
+        android:fillColor="#2962FF"
+        android:pathData="M24,76 L32,58 L42,66 L52,42 L62,56 L72,32 L84,76 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M24,76 C36,54 50,60 60,40 C70,24 80,48 84,76" />
+</vector>
